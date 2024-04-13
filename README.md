@@ -10,5 +10,6 @@ I am a huge fan of arts and cars, and I decided to make something different just
 * Create a **biyective** relationship between *ASCII code* and *Black and White* density.
 * Use ImageDraw.Draw to write over an image.
 
-> To show you more about me, I have done this project with two of my favourite cars! The *Porsche 911 Targa* and the *Honda NSX from 1989*, here I leave you the results!
+> To show you more about me, I have done this project with two of my favourite cars! The *Honda NSX from 1989* and the *Porsche 911 Targa*, here I leave you the results!
 ![Honda NSX](https://github.com/Seniorveiga/Miscellaneous/blob/main/Ascii%20Generator/outputB%26W.png)
+![Porsche 911 Targa](https://github.com/Seniorveiga/Miscellaneous/blob/main/Ascii%20Generator/output.png)
