@@ -18,9 +18,9 @@ def getChar(inputInt):   #H can be from 0 to 255
 
 text_file = open("Output.txt","w") #Write mode
 
-im = Image.open(r"C:\Users\Manu\Documents\Miscelaneous For Fun\Ascii Generator\car2.jpg")
+im = Image.open(r"C:\Users\Manu\Documents\Miscellaneous\Ascii Generator\car2.jpg")
 
-fnt = ImageFont.truetype(r"C:\Users\Manu\Documents\Miscelaneous For Fun\Ascii Generator\lucon.ttf",15)
+fnt = ImageFont.truetype(r"C:\Users\Manu\Documents\Miscellaneous\Ascii Generator\lucon.ttf",15)
 
 width, height = im.size
 im = im.resize((int(ScaleFactor * width),int(ScaleFactor*height*(oneCharWidth/oneCharHeight))), Image.NEAREST)
